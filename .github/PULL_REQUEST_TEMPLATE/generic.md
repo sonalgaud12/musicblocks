@@ -25,6 +25,7 @@ This PR fixes #
 -   [ ] Performance — Improves performance (load time, memory, rendering, etc.)
 -   [ ] Tests — Adds or updates test coverage
 -   [ ] Documentation — Updates to docs, comments, or README
+-   [ ] CI/CD — Changes to CI/CD workflows and automation
 
 ## Changes Made
 
